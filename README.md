@@ -73,7 +73,7 @@ Created visuals analyzing:
 ![Student Type Distribution](screenshots/02-analysis-visuals/04-student-types-pie-chart.png)
 
 ### Dashboard
-![Main Dashboard](screenshots/04-dashboard/student-enrollment-dashboard.png)
+![Main Dashboard](screenshots/04-dashboard/01-student-enrollment-dashboard.jpg)
 
 ### Scenario Analysis
 ![Scenario Thread](screenshots/05-scenarios/improvement-scenario.png)
