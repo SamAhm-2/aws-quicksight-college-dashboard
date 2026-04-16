@@ -69,8 +69,8 @@ Created visuals analyzing:
 ![Calculated Fields](screenshots/01-dataset-preparation/02-student-type-calculated-field.png)
 
 ### Analysis & Visuals
-![Student Majors by Year](screenshots/02-analysis-visuals/majors-by-year.png)
-![Student Type Distribution](screenshots/02-analysis-visuals/student-types.png)
+![Student Majors by Year](screenshots/02-analysis-visuals/03-student-majors-by-year-barchart.png)
+![Student Type Distribution](screenshots/02-analysis-visuals/04-student-types-pie-chart.png)
 
 ### Dashboard
 ![Main Dashboard](screenshots/04-dashboard/student-enrollment-dashboard.png)
