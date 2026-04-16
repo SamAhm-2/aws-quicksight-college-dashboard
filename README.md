@@ -76,10 +76,10 @@ Created visuals analyzing:
 ![Main Dashboard](screenshots/04-dashboard/01-student-enrollment-dashboard.jpg)
 
 ### Scenario Analysis
-![Scenario Thread](screenshots/05-scenarios/improvement-scenario.png)
+![Scenario Thread](screenshots/05-scenarios/06-thread-factors-highevaluation.jpg)
 
 ### Data Story
-![Data Story Cover](screenshots/06-data-story/story-page-1.png)
+![Data Story Cover](screenshots/06-data-story/02-datastorycover.jpg)
 
 ## Skills Demonstrated
 
