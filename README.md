@@ -65,7 +65,7 @@ Created visuals analyzing:
 ## Project Screenshots
 
 ### Dataset Configuration
-![Dataset Refresh Schedule](screenshots/01-dataset-preparation/refresh-schedule.png)
+![Dataset Refresh Schedule](screenshots/01-dataset-preparation/01-refresh-schedule.png)
 ![Calculated Fields](screenshots/01-dataset-preparation/student-type-field.png)
 
 ### Analysis & Visuals
