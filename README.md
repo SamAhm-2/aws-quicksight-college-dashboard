@@ -66,7 +66,7 @@ Created visuals analyzing:
 
 ### Dataset Configuration
 ![Dataset Refresh Schedule](screenshots/01-dataset-preparation/01-refresh-schedule-settings.png)
-![Calculated Fields](screenshots/01-dataset-preparation/student-type-field.png)
+![Calculated Fields](screenshots/01-dataset-preparation/02-student-type-calculated-field.png)
 
 ### Analysis & Visuals
 ![Student Majors by Year](screenshots/02-analysis-visuals/majors-by-year.png)
