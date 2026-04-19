@@ -102,7 +102,9 @@ Created visuals analyzing:
 
 This project was completed as part of the AWS Business Intelligence Engineer certification program. It demonstrates practical application of AWS QuickSight for business analytics, combining technical skills with business acumen to deliver actionable insights.
 
-**Note:** Screenshots are from the AWS QuickSight interface. The actual dashboards are hosted on AWS and not publicly accessible due to platform limitations.
+**Note:** Screenshots are from the AWS QuickSight interface. The actual dashboards are hosted on AWS and not publicly accessible due to platform limitations. All project screenshots and detailed documentation available in the [screenshots](screenshots/) folder.
+   
+   
 
 ## Connect
 
