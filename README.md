@@ -96,6 +96,12 @@ Created visuals analyzing:
 **Duration:** Part of AWS Business Intelligence Engineer Nanodegree  
 **Certification:** AWS Certified Business Intelligence Engineer
 
+## Project Documentation
+
+- **[Analysis Summary](analysis-summary.md)** - Detailed findings, methodology, and recommendations
+- **[Project Guidelines](project-guidelines.md)** - Original assignment requirements
+- **[Screenshots](screenshots/)** - Complete visual documentation
+
 ---
 
 ## About This Project
